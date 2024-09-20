@@ -1,5 +1,9 @@
 streamlit==1.22.0
 tensorflow==2.17.0
 opencv-python-headless==4.5.3.56
-Pillow>=9.0.0  # Use a higher version of Pillow to avoid zlib compilation issues
+Pillow>=9.0.0  # Higher version to avoid zlib issues
 gdown==4.6.0
+numpy
+setuptools
+pip
+wheel
